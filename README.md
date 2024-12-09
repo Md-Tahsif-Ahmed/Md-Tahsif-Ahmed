@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Courier Service System](https://topspeedbd.com/)
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **AWS, Docker, Next Js**
 
 - 👯 I’m looking to collaborate on [Aeone Garments](https://aeonerp.com/login)
 
