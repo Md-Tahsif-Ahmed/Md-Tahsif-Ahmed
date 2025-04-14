@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-tahsif-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="md-tahsif-ahmed" /> </p>
 
-- 🔭 I’m currently working on [TutorSplan Management System] 
+- 🔭 I’m currently working on TutorSplan Management System
 
 - 🌱 I’m currently learning **AWS, Docker, Next Js**
 
